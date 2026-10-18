@@ -1,6 +1,6 @@
 # Trademark Policy
 
-"Open Detection Engineering," "ODE," and any ODE logos (together, the "ODE Marks") are held by Tallis Jordan on behalf of the project. If ODE is later incorporated as an independent nonprofit or other legal entity, ownership of the ODE Marks may be assigned to that organization.
+"Open Detection Engineering," "ODE," and any ODE logos (together, the "ODE Marks") are owned by HardCounter LLC ("HardCounter"), which stewards the project. The HardCounter name and logo are separate marks of HardCounter, and this policy does not license them.
 
 The CC BY-SA and Apache licenses in [LICENSE.md](LICENSE.md) cover content and code. They do not grant any rights in the ODE Marks. This policy explains what you may do.
 
@@ -26,7 +26,11 @@ Conditions:
 - Using the ODE logo in a way that suggests affiliation
 - Product, company, or domain names containing "ODE" or "Open Detection Engineering" in a manner that suggests affiliation with, sponsorship by, or endorsement from the Open Detection Engineering project.
 
-ODE currently has no certification or endorsement program, so these permissions are not available. If one is created, it will be defined publicly with transparent criteria.
+Send permission requests to <ode@hardcounter.io>. ODE currently has no certification or endorsement program, so these permissions are not available. If one is created, it will be defined publicly with transparent criteria.
+
+## HardCounter's own offerings
+
+HardCounter's training and services based on ODE follow this policy like everyone else's. Owning the ODE Marks does not make a HardCounter offering the curriculum's official or endorsed delivery, and HardCounter will not describe it that way.
 
 ## Modified versions
 
@@ -34,4 +38,4 @@ If you distribute a modified version of ODE content, you may say it is "based on
 
 ## Reporting misuse
 
-Open a private report following [SECURITY.md](SECURITY.md#reporting) or contact <tj@tallisjordan.com>.
+Open a private report following [SECURITY.md](SECURITY.md#reporting) or contact <ode@hardcounter.io>.

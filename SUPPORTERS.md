@@ -2,24 +2,16 @@
 
 ODE is made possible by organizations and individuals who support it financially, with staff time, or with in-kind resources.
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://leveleffect.com">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/logos/level-effect.svg">
-          <img src="assets/logos/level-effect-light.svg" alt="Level Effect" height="60">
-        </picture>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/logos/deth-diaries.svg">
-          <img src="assets/logos/deth-diaries-light.svg" alt="DE&amp;TH Diaries" height="60">
-        </picture>
-    </td>
-  </tr>
-</table>
+ODE is stewarded by [HardCounter LLC](https://hardcounter.io), which is not listed here. See [GOVERNANCE.md](GOVERNANCE.md#stewardship-and-project-assets).
+
+<p align="center">
+  <a href="https://leveleffect.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/level-effect.svg"><img src="assets/logos/level-effect-light.svg" alt="Level Effect" width="300" align="middle"></picture></a>
+  &emsp;&emsp;&emsp;&emsp;
+  <a href="https://deathdiaries.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/deth-diaries.svg"><img src="assets/logos/deth-diaries-light.svg" alt="DE&amp;TH Diaries" width="300" align="middle"></picture></a>
+</p>
+
+- [Level Effect](https://leveleffect.com)
+- [DE&TH DIARIES](https://deathdiaries.com/)
 
 ## What support does and does not mean
 

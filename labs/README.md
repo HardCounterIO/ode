@@ -2,7 +2,7 @@
 
 Open reference labs that support ODE learning objectives. Organizations are also encouraged to build their own labs around the curriculum ([LICENSE.md](../LICENSE.md#using-ode-commercially)).
 
-**Status:** none yet. To propose one, open a [Lab Proposal](https://github.com/ode-os/detection-engineering/issues/new/choose).
+**Status:** none yet. To propose one, open a [Lab Proposal](https://github.com/HardCounterIO/ode/issues/new/choose).
 
 ## Licensing
 

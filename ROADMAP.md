@@ -72,4 +72,4 @@ Potential tracks include:
 - Establish recurring curriculum review
 - Publish versioned curriculum releases
 - Develop partnerships with training providers, vendors, universities, and other organizations
-- Evaluate formal nonprofit/community governance if project scale warrants it
+- Evaluate broader community governance if project scale warrants it

@@ -130,6 +130,6 @@ By submitting a contribution, you also confirm that:
 
 ## Questions and Discussion
 
-Use [GitHub Discussions](https://github.com/ode-os/detection-engineering/discussions) for questions, early ideas, and open-ended curriculum conversation. Open an issue once an idea is a concrete proposal (a new module, lab, dataset, or correction) using the matching issue template.
+Use [GitHub Discussions](https://github.com/HardCounterIO/ode/discussions) for questions, early ideas, and open-ended curriculum conversation. Open an issue once an idea is a concrete proposal (a new module, lab, dataset, or correction) using the matching issue template.
 
 To report a security problem or accidentally committed sensitive data, follow [SECURITY.md](SECURITY.md) instead.

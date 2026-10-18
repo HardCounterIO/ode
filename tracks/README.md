@@ -21,4 +21,4 @@ Each track is a directory in its category, named in lowercase kebab-case (for ex
 - Authors and reviewers disclose affiliations with any product covered ([MAINTAINERS.md](../MAINTAINERS.md#affiliation-disclosure)).
 - Vendor-specific material should be reviewed by at least one reviewer independent of that vendor where practical ([Review Process](../docs/REVIEW-PROCESS.md#3-roles)).
 
-To propose a track or a module within one, open a [New Module Proposal](https://github.com/ode-os/detection-engineering/issues/new/choose).
+To propose a track or a module within one, open a [New Module Proposal](https://github.com/HardCounterIO/ode/issues/new/choose).
