@@ -1,9 +1,9 @@
 # Link checker configuration (lychee).
-# Templates contain placeholder links on purpose.
-exclude_path = ["templates"]
+# Templates contain placeholder links on purpose. Values are regular expressions.
+exclude_path = ["(^|/)templates/"]
 
 # Check #fragment anchors in local Markdown files.
-include_fragments = true
+include_fragments = "full"
 
 # 429 means rate limited, not broken.
 accept = ["200..=299", "429"]
