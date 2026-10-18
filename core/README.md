@@ -2,7 +2,7 @@
 
 The Core curriculum contains vendor-neutral knowledge applicable to Detection Engineering regardless of platform or environment.
 
-**Status:** no modules yet. The structure below is a starting proposal from the [roadmap](../ROADMAP.md), and the final structure is to be decided collaboratively. To propose changes, open a [Curriculum Proposal](https://github.com/ode-os/detection-engineering/issues/new/choose).
+**Status:** no modules yet. The structure below is a starting proposal from the [roadmap](../ROADMAP.md), and the final structure is to be decided collaboratively. To propose changes, open a [Curriculum Proposal](https://github.com/HardCounterIO/ode/issues/new/choose).
 
 ## Proposed Areas
 

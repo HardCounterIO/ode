@@ -55,6 +55,8 @@ A reviewer counts toward the requirement only if they:
 - have disclosed any affiliation relevant to the content ([affiliation disclosure](../MAINTAINERS.md#affiliation-disclosure)), and
 - have no commercial interest in a product the content materially concerns.
 
+HardCounter LLC, the project's steward, is treated like any other vendor. Reviewers affiliated with HardCounter disclose that affiliation, and content that materially concerns HardCounter's own products or services needs at least one reviewer who is not affiliated with HardCounter.
+
 For vendor-specific content (platform tracks), at least one reviewer should be independent of that vendor where practical ([GOVERNANCE.md](../GOVERNANCE.md#commercial-organizations)).
 
 ### Bootstrap rule

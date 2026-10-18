@@ -11,6 +11,6 @@ max_retries = 3
 
 exclude = [
   # Returns 404 to anonymous visitors; it only works when signed in.
-  '^https://github\.com/ode-os/detection-engineering/security/advisories/new$',
+  '^https://github\.com/HardCounterIO/ode/security/advisories/new$',
   '^mailto:',
 ]

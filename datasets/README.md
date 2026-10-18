@@ -2,7 +2,7 @@
 
 Open datasets for lessons, testing, labs, and exercises.
 
-**Status:** none yet. To propose one, open a [Dataset Proposal](https://github.com/ode-os/detection-engineering/issues/new/choose).
+**Status:** none yet. To propose one, open a [Dataset Proposal](https://github.com/HardCounterIO/ode/issues/new/choose).
 
 ## Requirements
 

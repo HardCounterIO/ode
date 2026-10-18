@@ -2,6 +2,8 @@
 
 Open Detection Engineering uses separate licenses for educational material and software.
 
+Copyright © 2026 HardCounter LLC and Open Detection Engineering contributors. Contributors retain copyright to their original contributions (see Contributions below).
+
 ## Educational Content — CC BY-SA 4.0
 
 Unless otherwise noted, curriculum material, lessons, written lab instructions, assessments, diagrams, documentation, and other educational content are licensed under the:
@@ -51,7 +53,7 @@ Third-party material must be clearly identified and compatible with the licensin
 
 Do not submit proprietary, confidential, employer-owned, copyrighted, or otherwise restricted material unless you have explicit permission to do so.
 
-Logos and brand marks in `assets/logos/` are the property of their owners, are used with permission, and are excluded from both licenses above.
+Logos and brand marks in `assets/logos/` are the property of their owners, are used with permission, and are excluded from both licenses above. The ODE and HardCounter logos in `assets/brand/` are trademarks of HardCounter LLC and are also excluded; see [TRADEMARK.md](TRADEMARK.md).
 
 ## Using ODE Commercially
 
@@ -66,6 +68,8 @@ Training providers, vendors, and other organizations may use ODE in paid product
 **Required:**
 - Attribution: credit ODE, link to the source, link to the license, and indicate if you changed anything.
 - If you modify ODE educational content (rewriting, translating, condensing, or remixing lessons or written lab instructions) and distribute the result, you must release your modified version under CC BY-SA 4.0 or a compatible license.
+
+Suggested attribution: "Title" from Open Detection Engineering (<https://github.com/HardCounterIO/ode>), by HardCounter LLC and contributors, licensed under CC BY-SA 4.0.
 
 **Examples:**
 

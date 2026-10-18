@@ -36,7 +36,7 @@ Employees and representatives of commercial organizations are welcome. However, 
 
 Project maintainers may edit, reject, or remove contributions and may restrict participation when behavior materially harms the project or its community.
 
-Report concerns privately to <tj@tallisjordan.com>. Until a formal moderation process exists, reports are handled by the Project Lead. If the report concerns the Project Lead, send it to a listed maintainer instead.
+Report concerns privately to <conduct@hardcounter.io>. Until a formal moderation process exists, reports are handled by the Project Lead. If the report concerns the Project Lead, send it to a listed maintainer instead.
 
 ## Scope
 

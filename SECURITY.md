@@ -16,9 +16,9 @@ Not in scope for private reporting (use the **Technical Correction** issue templ
 ## Reporting
 
 Use GitHub's private vulnerability reporting:
-[Report a vulnerability](https://github.com/ode-os/detection-engineering/security/advisories/new)
+[Report a vulnerability](https://github.com/HardCounterIO/ode/security/advisories/new)
 
-If that is unavailable, email <tj@tallisjordan.com> with:
+If that is unavailable, email <security@hardcounter.io> with:
 - a description of the issue and where it is (file, lab, dataset)
 - steps to reproduce, if applicable
 - your assessment of impact

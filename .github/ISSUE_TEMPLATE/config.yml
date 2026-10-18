@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Questions and discussion
-    url: https://github.com/ode-os/detection-engineering/discussions
+    url: https://github.com/HardCounterIO/ode/discussions
     about: Ask questions, float ideas, or discuss the curriculum before opening a proposal.
   - name: Report a security issue or sensitive data
-    url: https://github.com/ode-os/detection-engineering/security/advisories/new
+    url: https://github.com/HardCounterIO/ode/security/advisories/new
     about: Report vulnerabilities or accidentally committed sensitive data privately. See SECURITY.md.

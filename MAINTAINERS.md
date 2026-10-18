@@ -6,7 +6,7 @@ ODE distinguishes between contributors, reviewers, maintainers, and project lead
 
 | Name | GitHub | Role | Areas | Affiliation |
 |---|---|---|---|---|
-| Tallis Jordan | @mndtrcks | Founding Project Lead | Governance, Core | Employer: Independent. Commercial interest: None. |
+| Tallis Jordan | @mndtrcks | Founding Project Lead | Governance, Core | Employer: HardCounter LLC (project steward). Commercial interest: HardCounter LLC may offer paid training based on ODE, such as live cohorts. |
 
 ## Maintainers
 
