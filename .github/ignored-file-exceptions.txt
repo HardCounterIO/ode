@@ -1,0 +1,4 @@
+# Paths (one per line, exact match) that are deliberately tracked even though
+# .gitignore matches them, for example a reviewed binary under the malware
+# guard. Each entry needs a maintainer's approval in the PR that adds it.
+# Lines starting with # and blank lines are ignored.

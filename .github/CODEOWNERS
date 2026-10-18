@@ -1,0 +1,7 @@
+# Default owner for everything. As maintainers and domain reviewers join,
+# add more specific paths below the default (the last matching pattern wins).
+* @mndtrcks
+
+# Examples for later:
+# /core/                       @maintainer-handle
+# /tracks/platforms/splunk/    @splunk-reviewer-handle

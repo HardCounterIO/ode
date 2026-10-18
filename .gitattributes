@@ -1,0 +1,26 @@
+# Normalize line endings: LF in the repository and in working trees on every
+# OS, so Windows contributors don't create whole-file diffs.
+* text=auto eol=lf
+
+# Binary files: never diff, never convert line endings.
+*.evtx binary
+*.pcap binary
+*.pcapng binary
+*.parquet binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.zip binary
+*.gz binary
+
+# SVG is text, so it diffs and gets normalized like any other text file.
+*.svg text
+
+# Large datasets: if files get big, track them with Git LFS instead. Uncomment
+# after running "git lfs install" and agreeing on a size threshold.
+# datasets/**/*.evtx filter=lfs diff=lfs merge=lfs -text
+# datasets/**/*.pcap filter=lfs diff=lfs merge=lfs -text
+# datasets/**/*.pcapng filter=lfs diff=lfs merge=lfs -text
+# datasets/**/*.parquet filter=lfs diff=lfs merge=lfs -text
