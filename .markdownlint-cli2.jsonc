@@ -1,0 +1,26 @@
+{
+  "globs": ["**/*.md"],
+  "ignores": [
+    "**/node_modules/**",
+    "templates/**",
+    ".github/ISSUE_TEMPLATE/**",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ],
+  "config": {
+    "default": true,
+    // Prose is one paragraph per line (docs/STYLE-GUIDE.md), so no line limit.
+    "MD013": false,
+    // Inline HTML is used for the README header and logos.
+    "MD033": false,
+    // The README starts with a centered <div>, not a heading.
+    "MD041": false,
+    // Repeated headings are fine under different parents (e.g. per-lesson sections).
+    "MD024": { "siblings_only": true },
+    // Lists directly after a "Label:" line are the house style and render fine.
+    "MD032": false,
+    // Bold license names in LICENSE.md are emphasis, not headings.
+    "MD036": false,
+    // Table pipe alignment is cosmetic; the source is still readable.
+    "MD060": false
+  }
+}
