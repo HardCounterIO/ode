@@ -18,8 +18,8 @@ Develop and review the vendor neutral Detection Engineering Core.
 Initial areas include:
 
 1. Detection Engineering Foundations
-2. Detection Requirements
-3. Telemetry & Data
+2. Telemetry & Data
+3. Detection Requirements
 4. Detection Design
 5. Detection Development
 6. Testing & Validation
