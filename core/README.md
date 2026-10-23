@@ -7,8 +7,8 @@ The Core curriculum contains vendor-neutral knowledge applicable to Detection En
 ## Proposed Areas
 
 1. Detection Engineering Foundations
-2. Detection Requirements
-3. Telemetry & Data
+2. Telemetry & Data
+3. Detection Requirements
 4. Detection Design
 5. Detection Development
 6. Testing & Validation
