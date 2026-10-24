@@ -1,0 +1,32 @@
+title: 
+slug: 
+status: draft  # draft | in-review | reviewed | stable | needs-update | deprecated
+version:
+
+summary: >
+  
+
+learning_objectives:
+  - 
+  - 
+  - 
+  - 
+
+prerequisites:
+  - 
+
+authors:
+  - 
+
+reviewers: []  # GitHub handles (without @) of independent approving reviewers
+
+maintainers:
+  - 
+
+last_reviewed: null  # YYYY-MM-DD, set by a maintainer on approval
+
+related_tracks: []
+
+related_labs: []
+
+related_datasets: []
