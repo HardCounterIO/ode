@@ -132,4 +132,6 @@ By submitting a contribution, you also confirm that:
 
 Use [GitHub Discussions](https://github.com/HardCounterIO/ode/discussions) for questions, early ideas, and open-ended curriculum conversation. Open an issue once an idea is a concrete proposal (a new module, lab, dataset, or correction) using the matching issue template.
 
+The [ODE Discord](https://discord.gg/aBW2dwhpT9) is available for quick questions, real-time chat, and coordinating with other contributors. Decisions about the curriculum are made on GitHub. If something is agreed in Discord, record it in the relevant issue, discussion, or pull request.
+
 To report a security problem or accidentally committed sensitive data, follow [SECURITY.md](SECURITY.md) instead.
