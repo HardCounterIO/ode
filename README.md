@@ -83,7 +83,7 @@ See the [roadmap](ROADMAP.md) for where the project is headed.
 
 Contributions are welcome from Detection Engineers, SOC and IR practitioners, researchers, instructors, vendors, training organizations, and others with relevant experience.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md), the [Style Guide](docs/STYLE-GUIDE.md), and the [Review Process](docs/REVIEW-PROCESS.md). Questions and ideas go in [Discussions](https://github.com/HardCounterIO/ode/discussions). Participation is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
+See [CONTRIBUTING.md](CONTRIBUTING.md), the [Style Guide](docs/STYLE-GUIDE.md), and the [Review Process](docs/REVIEW-PROCESS.md). Questions and ideas go in [Discussions](https://github.com/HardCounterIO/ode/discussions). For real-time chat, join the [ODE Discord](https://discord.gg/aBW2dwhpT9). Participation is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Governance
 

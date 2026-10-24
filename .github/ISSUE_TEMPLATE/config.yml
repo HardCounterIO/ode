@@ -3,6 +3,9 @@ contact_links:
   - name: Questions and discussion
     url: https://github.com/HardCounterIO/ode/discussions
     about: Ask questions, float ideas, or discuss the curriculum before opening a proposal.
+  - name: ODE Discord
+    url: https://discord.gg/aBW2dwhpT9
+    about: Chat with other contributors in real time. Curriculum decisions are made on GitHub.
   - name: Report a security issue or sensitive data
     url: https://github.com/HardCounterIO/ode/security/advisories/new
     about: Report vulnerabilities or accidentally committed sensitive data privately. See SECURITY.md.

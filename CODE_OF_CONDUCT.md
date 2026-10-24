@@ -40,4 +40,4 @@ Report concerns privately to <conduct@hardcounter.io>. Until a formal moderation
 
 ## Scope
 
-This Code of Conduct applies to ODE repositories, issue discussions, pull requests, project communication channels, and project-organized activities.
+This Code of Conduct applies to ODE repositories, issue discussions, pull requests, project communication channels (including the ODE Discord), and project-organized activities.
