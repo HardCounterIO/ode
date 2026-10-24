@@ -1,0 +1,32 @@
+title: Detection Requirements
+
+slug:
+
+status: draft # draft | in-review | reviewed | stable | needs-update | deprecated
+
+version:
+
+summary: >
+  Covers deciding what to detect and in what order: where detection ideas
+  come from, how to turn them into actionable requirements, and how to
+  prioritize them against threats and the organization's actual risk and
+  exposure.
+
+learning_objectives: []
+
+prerequisites: []
+
+authors:
+  - Treyrob3
+
+reviewers: [] # GitHub handles (without @) of independent approving reviewers
+
+maintainers: []
+
+last_reviewed: null # YYYY-MM-DD, set by a maintainer on approval
+
+related_tracks: []
+
+related_labs: []
+
+related_datasets: []
