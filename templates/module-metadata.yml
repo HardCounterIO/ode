@@ -23,6 +23,9 @@ reviewers: []  # GitHub handles (without @) of independent approving reviewers
 maintainers:
   - 
 
+ai_assistance: >  # "none", or how AI tools were used and in which lessons; see CONTRIBUTING.md
+  
+
 last_reviewed: null  # YYYY-MM-DD, set by a maintainer on approval
 
 related_tracks: []

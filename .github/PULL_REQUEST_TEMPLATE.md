@@ -44,6 +44,12 @@ Disclose any relevant employer, vendor, training-provider, or other affiliation 
 
 If none, write `None`.
 
+## AI Assistance
+
+Disclose whether AI tools were used in this contribution, how they were used (for example drafting, editing, code assistance, or research support), and what you verified. If you changed a module, also update the `ai_assistance` field in its `module-metadata.yml` and the AI Assistance section of its README. See [AI-Assisted Contributions](../CONTRIBUTING.md#ai-assisted-contributions).
+
+If none, write `None`.
+
 ## Additional Context
 
 Anything else reviewers should know?
