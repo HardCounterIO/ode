@@ -78,6 +78,10 @@ Contributors are expected to:
 
 AI tools may be used for activities such as drafting, editing, restructuring, brainstorming, code assistance, research support, or generating initial examples. However, contributors must validate the resulting material before submission.
 
+Every module discloses AI use in the `ai_assistance` field of its `module-metadata.yml` and in the **AI Assistance** section of its README, so the disclosure stays with the published material and is visible to learners. Write `none` if no AI tools were used; otherwise, say which lessons or components were affected and how. Contributors who change a module update both to cover their own contribution.
+
+Disclosure keeps the project transparent with learners. It is not itself a reason to reject a contribution.
+
 ODE does not accept content that substitutes generated output for practitioner knowledge. Examples include:
 
 - technically shallow material submitted without meaningful expert review

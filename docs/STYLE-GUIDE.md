@@ -140,3 +140,4 @@ Before opening a pull request:
 - [ ] Versions (ATT&CK, products, OS releases) are named.
 - [ ] Metadata is filled in per the [review process](REVIEW-PROCESS.md).
 - [ ] Commits are signed off, and affiliations are disclosed.
+- [ ] AI use is disclosed in the module's `ai_assistance` field and README ([CONTRIBUTING.md](../CONTRIBUTING.md#ai-assisted-contributions)).

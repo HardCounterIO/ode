@@ -34,6 +34,10 @@ List related datasets, if any.
 
 List major references used across the module.
 
+## AI Assistance
+
+State whether AI tools were used in developing this module. Write `None`, or describe which lessons or components were affected and how. Keep this consistent with the `ai_assistance` field in `module-metadata.yml`.
+
 
 > [!NOTE]
 > This should be the README.md within the module directory.

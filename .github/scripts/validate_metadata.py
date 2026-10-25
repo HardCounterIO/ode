@@ -14,7 +14,7 @@ import yaml
 
 STATUSES = {"draft", "in-review", "reviewed", "stable", "needs-update", "deprecated"}
 REVIEWED_STATUSES = {"reviewed", "stable"}
-STRING_FIELDS = ["title", "slug", "summary"]
+STRING_FIELDS = ["title", "slug", "summary", "ai_assistance"]
 LIST_FIELDS = [
     "learning_objectives",
     "prerequisites",
