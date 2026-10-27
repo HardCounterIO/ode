@@ -4,24 +4,29 @@ status: draft  # draft | in-review | reviewed | stable | needs-update | deprecat
 version: 0.1
 
 summary: >
-  Establishes what detection engineering is, the vocabulary used throughout Core, and the end-to-end detection lifecyle that the remaining modules expand on. Every other module builds on the definitions set here.
+  Detection Engineering Foundations establishes what detection engineering is, the vocabulary used throughout Core, and the end-to-end lifecycle that the remaining modules expand on. Every other module builds on the definitions set here.
 
 learning_objectives:
-  - Define common vocabulary
-  - Understand the basics of detection engineering
-  - Lay the foundation for the rest of the learning modules
-  - Describe the role of detection engineering in various types of organizations
+  - Explain why detection is necessary alongside prevention, and how the field moved from signature-based to behavior-based detection.
+  - Describe a detection as a system of inputs, processing, outputs, and dependencies, and explain why detections must be treated as more than a query alone.
+  - Define detection engineering, compare it with alternative definitions, and distinguish it from SOC operations, incident response, threat intelligence, and threat hunting by what each produces and consumes.
+  - Apply the ODE vocabulary consistently.
+  - Use common detection engineering mental models to explain concepts such as increasing the difficulty for adversaries to evade detection.
+  - Sequence the phases of the detection lifecycle, and identify the Core module that covers each phase.
 
 prerequisites:
-  - 
+  - Understanding of at least one log source (endpoint, network, or cloud).
+  - Ability to read and understand raw event logging, YAML, or other structured data.
+  - Ability to read and understand simple queries in any language (SPL, KQL, ES|QL, SQL).
 
 authors:
   - sh0k03
+  - mndtrcks
 
 reviewers: []  # GitHub handles (without @) of independent approving reviewers
 
 maintainers:
-  - 
+  - mndtrcks
 
 last_reviewed: null  # YYYY-MM-DD, set by a maintainer on approval
 
