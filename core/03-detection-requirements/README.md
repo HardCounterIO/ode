@@ -1,27 +1,27 @@
 # Detection Requirements 
-## Overview: 
+## Overview 
 Covers deciding what to detect and in what order: where detection ideas come from, how to turn them into actionable requirements, and how to prioritize them against threats and the organization's actual risk and exposure.
 
-## Learning Objectives:
+## Learning Objectives
 By the end of this module, learners should be able to: 
 * TBD
 
-## Prerequisites:
+## Prerequisites
 TBD 
 
-## Lessons: 
+## Lessons
 TBD 
 
-## Boundaries:
+## Boundaries
 TBD
 
-## Labs:
+## Labs
 None yet
 
-## Datasets:
+## Datasets
 None yet
 
-## References:
+## References
 - MITRE ATT&CK
 - CISA Known Exploited Vulnerabilities (KEV) Catalog
 - FIRST Exploit Prediction Scoring System (EPSS)
