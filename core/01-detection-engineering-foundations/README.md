@@ -32,7 +32,11 @@ List related datasets, if any.
 
 ## References
 
-List major references used across the module.
+- MITRE ATT&CK - https://attack.mitre.org/
+- Pyramid of Pain (David Bianco)
+- Alerting and Detection Strategy (ADS) framework (Palantir)
+- Detection Enginering Maturity Matrix (Kyle Bailey)
+- MITRE 11 Strategies of a World-Class Security Operations Center - https://www.mitre.org/sites/default/files/2022-04/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf
 
 
 > [!NOTE]
