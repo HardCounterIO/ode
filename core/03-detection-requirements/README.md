@@ -41,6 +41,38 @@ TBD
 - Combining risk factors into a final priority (Lesson 6)
 - Telemetry required to observe exploitation (Module 02)
 - Building exploitation detections (Module 05) 
+***
+### 6. Prioritization
+
+#### Learning Objectives
+
+- Combine threat, impact, exposure, feasibility, and effort into a defensible priority for a detection requirement
+- Evaluate the strengths and failure modes of common prioritization approaches
+- Decide when a risk should be addressed through detection, prevention, or explicit acceptance
+- Communicate prioritization decisions to stakeholders in terms of risk reduction
+
+#### Key Topics
+
+- Prioritization inputs: threat relevance, potential impact, asset exposure, telemetry feasibility, and engineering effort
+- Prioritization approaches:
+  - Qualitative tiers (high / medium / low)
+  - Weighted scoring models
+  - Threat-driven ranking (for example, prevalence of techniques in relevant threat activity)
+  - Coverage-gap-driven ranking
+- Failure modes:
+  - Headline-driven priority: high-profile news creating pressure to act on threats with little relevance to the environment
+  - Severity over exposure: letting a single input such as CVSS outrank actual exposure and exploitability
+  - Remediation-only planning: relying on a long remediation effort that later stalls on an undiscovered dependency, with no interim detection in place
+  - False precision in scoring models, and prioritizing what is easy to build over what matters
+- Detect, prevent, or accept: when detection is the right investment and when the better answer is a preventive control or documented risk acceptance
+- Re-prioritization triggers: new threat intelligence, incidents, environment changes, and remediated exposure
+- Explaining priority to stakeholders: tying decisions to risk reduction rather than rule counts, and grounding responses to headline threats in actual exposure
+
+#### Out of Scope
+
+- Detailed treatment of exposure and asset risk inputs (Lesson 4)
+- Assessing telemetry availability (Lesson 5)
+- Program-level backlog management, capacity planning, and metrics (Module 10)
 
 ## Boundaries
 TBD
