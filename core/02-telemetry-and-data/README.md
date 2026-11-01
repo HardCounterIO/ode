@@ -239,3 +239,7 @@ N/A
 
 - [STIX Version 2.1](https://docs.oasis-open.org/cti/stix/v2.1/os/stix-v2.1-os.html), OASIS Open, 2021. Retrieved 2026-10-31.
 - [NIST SP 800-94: Guide to Intrusion Detection and Prevention Systems](https://csrc.nist.gov/pubs/sp/800/94/final), Karen Scarfone and Peter Mell, National Institute of Standards and Technology, 2007. DOI: 10.6028/NIST.SP.800-94.
+
+## AI Assistance
+
+Research

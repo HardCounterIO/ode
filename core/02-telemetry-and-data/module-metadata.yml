@@ -26,6 +26,9 @@ reviewers: []  # GitHub handles (without @) of independent approving reviewers
 maintainers:
   - mndtrcks
 
+ai_assistance: >
+  research
+
 last_reviewed: null  # YYYY-MM-DD, set by a maintainer on approval
 
 related_tracks: []
