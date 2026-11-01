@@ -20,7 +20,6 @@ prerequisites:
   - Ability to read and understand simple queries in any language (SPL, KQL, ES|QL, SQL).
 
 authors:
-  - sh0k03
   - mndtrcks
 
 reviewers: []  # GitHub handles (without @) of independent approving reviewers
