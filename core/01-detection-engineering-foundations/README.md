@@ -223,3 +223,7 @@ N/A
 ### Detection Lifecycle
 
 - [Detection Development Lifecycle](https://medium.com/snowflake/detection-development-lifecycle-af166fffb3bc), Haider Dost, Tammy Truong, and Michele Freschi, Snowflake, 2022.
+
+## AI Assistance
+
+Research
