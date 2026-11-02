@@ -1,10 +1,7 @@
 title: Detection Requirements
-
-slug:
-
+slug: detection-requirements
 status: draft # draft | in-review | reviewed | stable | needs-update | deprecated
-
-version:
+version: 0.1
 
 summary: >
   Covers deciding what to detect and in what order: where detection ideas
@@ -12,16 +9,30 @@ summary: >
   prioritize them against threats and the organization's actual risk and
   exposure.
 
-learning_objectives: []
+learning_objectives:
+  - Write a detection requirement that states the behavior, required data, triggering conditions, context, and success criteria.
+  - Identify where detection ideas come from, and evaluate an idea's relevance to the environment.
+  - Extract detection requirements from a detection threat model.
+  - Use asset criticality, exposure, and vulnerability state to shape the priority and scope of a requirement.
+  - Determine whether a requirement can be met with available telemetry within organizational constraints.
+  - Prioritize requirements and communicate the decisions in terms of risk reduction.
 
-prerequisites: []
+prerequisites:
+  - Module 01 Detection Engineering Foundations
+  - Module 02 Telemetry & Data
 
 authors:
   - Treyrob3
+  - mndtrcks
 
 reviewers: [] # GitHub handles (without @) of independent approving reviewers
 
-maintainers: []
+maintainers:
+  - mndtrcks
+  - Treyrob3
+
+ai_assistance: >
+  research
 
 last_reviewed: null # YYYY-MM-DD, set by a maintainer on approval
 
