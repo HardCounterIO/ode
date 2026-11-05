@@ -1,0 +1,41 @@
+title: Detection-as-Code
+slug: detection-as-code
+status: draft # draft | in-review | reviewed | stable | needs-update | deprecated
+version: 0.1
+
+summary: >
+  Detection-as-Code covers managing detections the way software is managed: stored in version control, reviewed before they change, validated automatically, and deployed by a repeatable process. Learners will be introduced to what the practice is and when it pays off, repository structure, rule formats and metadata, code review, continuous integration, and automated deployment with the ability to reverse it.
+
+learning_objectives:
+  - Justify when managing detections as code is worth its overhead, and identify teams for which it is premature.
+  - Design a repository layout and metadata schema for a detection set, and defend each required field by the decision it supports.
+  - Distinguish which validation belongs in a pre-commit hook, which belongs in continuous integration, and which requires a human reviewer.
+  - Review a detection change against criteria that automation cannot check.
+  - Build a path that takes a merged change to a running detection, and state how to reverse it.
+  - Diagnose drift between a detection repository and the platform running the detections, and choose a reconciliation approach.
+
+prerequisites:
+  - Module 01 Detection Engineering Foundations
+  - Module 05 Detection Development
+  - Module 06 Testing & Validation
+  - Working knowledge of Git branching, merging, and pull requests
+  - Ability to read YAML and a continuous integration configuration file
+
+authors:
+  - toluda17
+
+reviewers: []
+
+maintainers:
+  - toluda17
+
+ai_assistance: >
+  None
+
+last_reviewed: null
+
+related_tracks: []
+
+related_labs: []
+
+related_datasets: []
