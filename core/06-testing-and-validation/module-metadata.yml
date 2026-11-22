@@ -4,12 +4,23 @@ status: draft
 version: "0.1"
 
 summary: >
-  TODO
+  Testing and validation covers proving a detection works and keeps working: test data,
+  testing, adversary emulation, false positive and false negative testing, and continuous validation.
 
 learning_objectives:
-  - TODO
+  - Prove a detection works via adversary emulation.
+  - Explain how test data is generated and validated for adherence to expected design and alert anatomy.
+  - Fire alert output and confirm coverage of intended use cases, based on alert design and responder context from modules 04 and 05.
+  - Test for false positives and false negatives based on testing logic from module 05.
+  - Describe methods for continuous validation.
+  - Troubleshoot common reasons for detection failures.
 
-prerequisites: []
+prerequisites:
+  - "Module 01: Detection Engineering Foundations"
+  - "Module 02: Telemetry & Data"
+  - "Module 03: Detection Requirements"
+  - "Module 04: Detection Design"
+  - "Module 05: Detection Development"
 
 authors:
   - hackerbyhobby
@@ -18,7 +29,7 @@ reviewers: []
 maintainers: []
 
 ai_assistance: >
-  TODO
+  Populating this metadata file was assisted by AI, purely for efficiency and consistency. The content was reviewed and approved by the authors and maintainers listed above.
 
 last_reviewed: null
 
