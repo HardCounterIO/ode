@@ -61,7 +61,7 @@ By the end of this module, learners should be able to:
 - Threat hunting
 - ATT&CK as a source
 - Compliance and stakeholder requests
-- News driven requests
+- News-driven requests
 
 **Out of scope**
 
@@ -93,7 +93,7 @@ By the end of this module, learners should be able to:
 - Coverage analysis of existing detections (Module 04)
 - Researching a behavior in depth (Module 04)
 
-### 4. Risk & Exposure Context
+### [4. Risk & Exposure Context](04-risk-exposure-context.md)
 
 **Learning Objectives**
 
@@ -137,7 +137,7 @@ By the end of this module, learners should be able to:
 **Key Topics**
 
 - Environment assessment (Module 02) vs. per-requirement feasibility
-- Field level data source mapping
+- Field-level data source mapping
 - Whether the requirement needs a baseline
 - Platform, organizational, and compliance constraints
 - Whether the SOC can act on the result
@@ -232,4 +232,5 @@ N/A
 
 ## AI Assistance
 
-Research
+Lesson 4 (Risk & Exposure Context): Edited and reviewed with minimal AI assistance (Claude and ChatGPT), with spelling and grammar checked using Superhuman Go. All technical claims, examples, and references were reviewed and verified by the author.
+
