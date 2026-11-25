@@ -32,9 +32,12 @@ maintainers:
   - Treyrob3
 
 ai_assistance: >
-  research
+  research; lesson 4 (Risk & Exposure Context): Edited and reviewed
+  with minimal AI assistance (Claude and ChatGPT), spelling and grammar checked with
+  Superhuman Go, with all technical claims, examples, and references
+  reviewed and verified by the author
 
-last_reviewed: null # YYYY-MM-DD, set by a maintainer on approval
+last_reviewed: null # 2026-11-24, set by a maintainer on approval
 
 related_tracks: []
 
